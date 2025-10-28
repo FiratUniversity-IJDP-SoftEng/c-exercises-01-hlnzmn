@@ -36,9 +36,10 @@ int main(void)
     {
         printf("Grade 16+\n");
     }
-        //helin
+        
     else
     {
         printf("Grade %i\n", grade);
     }
 }
+//helin
